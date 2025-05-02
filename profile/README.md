@@ -18,5 +18,5 @@ The term IBuidl comes from Indie Hacker, and the use of buidl here is a slang te
 
 🚗 [Solidity教程](https://ibuidl.notion.site/Solidity-Course-bf0652e1aaf34cd383f1d79372b854ef)
 
-📰 [Weekly NewsLetter ](https://weekly.kkdemian.com/)
+📰 [Weekly NewsLetter ](https://0xkkdemian.notion.site/)
 
